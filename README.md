@@ -41,8 +41,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" height="40" style="vertical-align:top; margin:4px">
