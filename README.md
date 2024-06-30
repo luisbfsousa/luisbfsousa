@@ -2,6 +2,8 @@
 
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti">Aveiro</a></h3>
 
+--
+
 <h2 align="center">Social Media and Contacts:</h2>
 
 <p align="center">
