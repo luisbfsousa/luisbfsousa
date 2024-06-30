@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti"> Aveiro </a></h3>
 
-# How to reach me:
+# Social Media and Contacts:
 <a href="https://instagram.com/lssousa09" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lssousa09" height="30" width="40" />
 </a>
