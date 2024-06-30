@@ -23,7 +23,7 @@
     <a href="mailto:luisbfsousa@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" />
     </a>
-</p>
+</p><br> 
 
 <h1 align="center">Tech Stack:
 <p align="center">
