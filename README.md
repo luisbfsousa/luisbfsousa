@@ -3,7 +3,6 @@
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti">Aveiro</a></h3>
 
 <h2 align="center">Social Media and Contacts:</h2>
-
 <p align="center">
     <a href="https://instagram.com/lssousa09" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
