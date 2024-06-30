@@ -45,10 +45,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" height="40" style="vertical-align:top; margin:4px">
-</p>
+</p><br> 
 
 
-
+<h1 align="center">Github Stats:</h1>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbfsousa&theme=darcula&include_all_commits=false&count_private=true&layout=compact" />
