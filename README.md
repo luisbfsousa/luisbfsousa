@@ -25,7 +25,10 @@
     </a>
 </p>
 
+# Tech Stack:
+
+
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbfsousa&theme=dark&include_all_commits=false&count_private=true&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbfsousa&theme=darcula&include_all_commits=false&count_private=true&layout=compact" />
 </div>
