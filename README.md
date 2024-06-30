@@ -28,22 +28,22 @@
 # <h1 align="center">Tech Stack:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/706d0ab8e5b4e9bdb7a370e3eaf86a7b69eaf21b/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/ee5e9bd7558/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/ee5e9bd7558/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/3e9df59b15f9c2f50ed9a1be5f20b9d65d7e0b7a/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/805c8a6d1848e6b99497c5bde9536a9c3b4dbdf2/topics/vhdl/vhdl.png" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Assembly_language_logo.svg/1200px-Assembly_language_logo.svg.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7c879d455c4f3d8f2cbe6263d01b74f0c07fef22/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/d662647e704bf55a75fbcf3b3eb20d6bfea2a791/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/694b4b1e8f9cbb1078d5b299a963f9b3e040d2e2/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/flask/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/7b8474be525e2ffcc6b7/87e9bd7558/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
-
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/vhdl/vhdl.png" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
