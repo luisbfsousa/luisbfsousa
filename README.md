@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti">Aveiro</a></h3>
 
 ---
