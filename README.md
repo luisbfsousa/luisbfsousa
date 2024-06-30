@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/375px-MySQL_logo.svg.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
