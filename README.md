@@ -2,8 +2,6 @@
 
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti">Aveiro</a></h3>
 
----
-
 <h2 align="center">Social Media and Contacts:</h2>
 
 <p align="center">
@@ -26,3 +24,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" />
     </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisbfsousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
