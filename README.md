@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti"> Aveiro </a></h3>
 <!--
 **luisbfsousa/luisbfsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
