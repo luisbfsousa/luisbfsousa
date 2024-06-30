@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-    <img src="hhttps://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
