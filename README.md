@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there 👋, My name is Luís Sousa</h1>
 
-<h3 align="center">Computer and Informatics Engineering student from&nbsp;<a href="https://www.ua.pt/pt/deti">Aveiro</a></h3> <br> 
+<h3 align="center">Computer and Informatics Engineering student from&nbsp;<a href="https://www.ua.pt/pt/deti">Universidade de Aveiro</a></h3> <br>
 
 <h2 align="center">Social Media and Contacts:</h2>
 
