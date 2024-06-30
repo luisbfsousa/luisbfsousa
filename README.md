@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <h3 align="center">Computer and Informatics Engineering student from <a href="https://www.ua.pt/pt/deti"> Aveiro </a></h3>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=luisbfsousa&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **luisbfsousa/luisbfsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=luisbfsousa&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
