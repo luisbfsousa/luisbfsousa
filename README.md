@@ -39,17 +39,17 @@
     <img src="https://avatars.githubusercontent.com/u/21169439?s=200&v=4" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
     <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+    #<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
-     <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" height="40" style="vertical-align:top; margin:4px">-->
+     c<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" alt="GIMP" height="40" style="vertical-align:top; margin:4px">-->
 </p><br> 
 
 
-<h1 align="center">Github Stats:</h1>
+<!--<h1 align="center">Github Stats:</h1>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbfsousa&theme=darcula&include_all_commits=false&count_private=true&layout=compact" />
-</div>
+</div>-->
