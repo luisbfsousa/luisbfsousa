@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c#/c#.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
