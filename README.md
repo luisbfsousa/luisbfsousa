@@ -32,8 +32,8 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://icon2.cleanpng.com/20180608/rbo/kisspng-cascading-style-sheets-css3-logo-5b1a6a5c5dfbb2.855009901528457820385.jpg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     <img src="https://avatars.githubusercontent.com/u/21169439?s=200&v=4" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
