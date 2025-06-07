@@ -44,7 +44,7 @@
     <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">-->
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static-00.iconduck.com/assets.00/latex-icon-2014x2048-wyowdlpa.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_1v1gjhKl4QDZNey7nXZ_yH-LdQt7Q7VBw&s" alt="Three.js" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://enesalp.com.tr/images/icon/logothreejs.png" alt="Three.js" height="40" style="vertical-align:top; margin:4px">
 </p><br> 
 
 
