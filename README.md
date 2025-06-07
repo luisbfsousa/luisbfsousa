@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3u7CCc5GAkZxs-JGPE6iatcC4cCKRb9YdQ&s" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     <img src="https://avatars.githubusercontent.com/u/21169439?s=200&v=4" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
