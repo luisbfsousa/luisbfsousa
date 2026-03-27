@@ -36,7 +36,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png](https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg)" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://avatars.githubusercontent.com/u/21169439?s=200&v=4" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
