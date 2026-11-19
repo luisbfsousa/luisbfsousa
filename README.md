@@ -1,10 +1,5 @@
 # <h1 align="center">Hi there 👋, My name is Luís Sousa</h1>
-
-<h3 align="center">Computer and Informatics Engineering student from&nbsp;<a href="https://www.ua.pt/pt/deti">Universidade de Aveiro</a></h3> <br>
-
-<h2 align="center">Social Media and Contacts:</h2>
-
-<p align="center">
+<h3 align="center">Computer and Informatics Engineering student from&nbsp;<a href="https://www.ua.pt/pt/deti">Universidade de Aveiro</a></h3> <br><h2 align="center">Social Media and Contacts:</h2><p align="center">
     <a href="https://instagram.com/luisbfsousa" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
@@ -23,9 +18,7 @@
     <a href="mailto:luisbfsousa@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="30" width="40" />
     </a>
-</p><br> 
-
-<h1 align="center">Tech Stack:</h1>
+</p><br> <h1 align="center">Tech Stack:</h1>
 <p align="center">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
@@ -33,24 +26,23 @@
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://avatars.githubusercontent.com/u/21169439?s=200&v=4" alt="VHDL" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Verilog-4051B5?style=flat-square" alt="Verilog" height="30" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/assembly/assembly.png" alt="Assembly" height="40" style="vertical-align:top; margin:4px">
     <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
     <!--<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">-->
     <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">-->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" alt="Bash" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
     <img src="https://enesalp.com.tr/images/icon/logothreejs.png" alt="Three.js" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-</p><br> 
-
-
-<!--<h1 align="center">Github Stats:</h1>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
+</p><br> <!--<h1 align="center">Github Stats:</h1>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisbfsousa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbfsousa&theme=darcula&include_all_commits=false&count_private=true&layout=compact" />
